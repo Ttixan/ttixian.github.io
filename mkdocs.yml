@@ -2,3 +2,5 @@ site_name: tt的个人网站
 theme:
   name: material
 site_url: https://ttxian.github.io
+nav:
+  - Home: 'index.md'
